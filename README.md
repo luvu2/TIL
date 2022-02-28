@@ -7,3 +7,5 @@
 2022.2.26. [How to interest in Interactive Web](https://yezzi.tistory.com/29)
 
 2022.2.27. [Job Discription for Front-end](https://yezzi.tistory.com/30)
+
+2022.2.28. [Book Review](https://yezzi.tistory.com/26)
