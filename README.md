@@ -9,3 +9,5 @@
 2022.2.27. [Job Discription for Front-end](https://yezzi.tistory.com/30)
 
 2022.2.28. [Book Review](https://yezzi.tistory.com/26)
+
+2022.3.1. [Resume](https://catnip-gymnast-270.notion.site/Yeji-Seo-0b2a508a1cbd4cfb94c151b50cec263b)
