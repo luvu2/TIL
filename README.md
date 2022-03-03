@@ -13,3 +13,5 @@
 2022.3.1. [Resume](https://catnip-gymnast-270.notion.site/Yeji-Seo-0b2a508a1cbd4cfb94c151b50cec263b)
 
 2022.3.2. [Develop the Resume](https://catnip-gymnast-270.notion.site/Yeji-Seo-0b2a508a1cbd4cfb94c151b50cec263b)
+
+2022.3.3. [Develop the Resume](https://catnip-gymnast-270.notion.site/Yeji-Seo-0b2a508a1cbd4cfb94c151b50cec263b)
