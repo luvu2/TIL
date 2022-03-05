@@ -17,3 +17,5 @@
 2022.3.3. [Develop the Resume](https://catnip-gymnast-270.notion.site/Yeji-Seo-0b2a508a1cbd4cfb94c151b50cec263b)
 
 2022.3.4. [CV](https://catnip-gymnast-270.notion.site/CV-45b2eb6664c8460ea67865bc86bf29c2)
+
+2022.3.5. [Javascript Evaluations Decisions Loops](https://yezzi.tistory.com/31)
